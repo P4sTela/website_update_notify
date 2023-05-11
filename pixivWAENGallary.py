@@ -80,3 +80,4 @@ if diff:
     send_message(topic)
 
 output_csv(result)
+
